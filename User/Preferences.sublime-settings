@@ -1,0 +1,31 @@
+{
+	"added_words":
+	[
+		"Хитрожопая",
+		"наихитрющие",
+		"предоставится",
+		"Однорукий",
+		"самоуничтожатся"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"dictionary": "Packages/Russian.dic",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 10,
+	"highlight_line": "true",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"полубоком",
+		"javascript",
+		"jquery"
+	],
+	"match_brackets": "true",
+	"save_on_focus_los": "true",
+	"search_threshold": "15000",
+	"show_encoding": "true",
+	"trim_trailing_white_space_on_save": "true",
+	"word_wrap": "true"
+}

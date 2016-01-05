@@ -1,0 +1,5 @@
+{
+  "cmd": ["less mystyle.less > mystyle.css"],
+  "shell": "true",
+  "working_dir": "${project_path}"
+}
